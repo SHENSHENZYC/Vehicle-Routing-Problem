@@ -1,4 +1,4 @@
-# VehicleRoutingProblem
+# Vehicle Routing Problem
 A research on vehicle routing problem with its modeling, algorithms and optimization methods
 
 The PDF file is a complete report that describes what we have researched and attempted in this project. The main topics we focus on is 
